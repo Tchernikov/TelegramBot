@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('5423908017:AAEM3mHFI8pF1j9T2trx-9Ur6S7pDWiEpk0')
+bot = telebot.TeleBot('Мой_токен')
 
 # Отслеживаем команду
 
